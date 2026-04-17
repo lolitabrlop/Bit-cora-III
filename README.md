@@ -1,5 +1,5 @@
 # Bit-cora-III
-Fundamentos de seguridad y autoría
+Fundamentos de Seguridad y Autoría
 ## Fase de investigación
 1- Los Syslog se usan para que los dispositivos puedan generar sus propios registros. Se encuentran los severity (0-7) y los facility, que son claves que facilitan las búsquedas.
 Hay que tener cuidado con poner los permisos de lecturas a usuarios no privilegiados ya que se expondría la autentificación y la seguridad del sistema. 
