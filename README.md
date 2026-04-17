@@ -14,3 +14,4 @@ Hay que tener cuidado con poner los permisos de lecturas a usuarios no privilegi
 ##Fase Práctica
 -Reto A
 A través de PowerShell de windows he añadido un usuario inventado con la ip de mi máquiona virtual pero, cuando he ido a comprobar los intentos del supuesto ataque, no sale reflejado. 
+En la parte de hacer el scripts es por donde me he quedado, pero, no creo que me genere el informe de los fallos si previamente no lee los intentos de ataque.
