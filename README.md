@@ -15,3 +15,8 @@ Hay que tener cuidado con poner los permisos de lecturas a usuarios no privilegi
 -Reto A
 A través de PowerShell de windows he añadido un usuario inventado con la ip de mi máquiona virtual pero, cuando he ido a comprobar los intentos del supuesto ataque, no sale reflejado. 
 En la parte de hacer el scripts es por donde me he quedado, pero, no creo que me genere el informe de los fallos si previamente no lee los intentos de ataque.
+
+## Bibliografía
+[1] InvGate, "¿Qué es Syslog? Definición, importancia y casos de uso", InvGate Blog, mayo de 2023. [En línea]. Disponible en: https://blog.invgate.com/es/que-es-syslog [Accedido: 17-abr-2026].
+[2] Hardware Premium, "Linux: Registro de accesos de usuarios y fallos en certificados", Hardware Premium, 2024. [En línea]. Disponible en: https://www.hardwarepremium.com/noticias/40214/linux-acceso-usuarios-fallo-certificados/ [Accedido: 17-abr-2026].
+[3] Kinsta, "Cómo solucionar el error 'Connection Refused' de SSH", Kinsta Blog, 2023. [En línea]. Disponible en: https://kinsta.com/es/blog/connection-de-ssh-rechazada/ [Accedido: 17-abr-2026]. 
